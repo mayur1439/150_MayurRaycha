@@ -1,2 +1,2 @@
-# 150_Mayur_Raycha
+# 150_MayurRaycha
 ML Labs
